@@ -1,7 +1,9 @@
 langchain
 langchain-openai
 langgraph
-typing
 streamlit
 llama-index
-dotenv
+python-dotenv
+pandas
+plotly
+streamlit-option-menu
